@@ -6,7 +6,7 @@ Define connection string
 mydb = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    passwd = 'Sharks16',
+    passwd = ' ',
     database = 'education'
 )
 """

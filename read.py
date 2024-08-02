@@ -9,7 +9,7 @@ Below is a connection string, which provides information about a data server
 and how the connection to it is made
 """
 cnx = mysql.connector.connect(user='root',
-    password='Sharks16',
+    password=' ',
     host='127.0.0.1',
     database='education',
     auth_plugin='mysql_native_password')
